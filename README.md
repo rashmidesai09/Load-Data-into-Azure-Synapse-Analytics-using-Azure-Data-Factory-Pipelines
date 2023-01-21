@@ -1,0 +1,1 @@
+# Load-Data-into-Azure-Synapse-Analytics-using-Azure-Data-Factory-Pipelines
